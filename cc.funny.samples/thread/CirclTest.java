@@ -1,4 +1,11 @@
 package thread;
 
-public class CirclTest {
+
+
+public class CirclTest implements Runnable{
+
+
+    public void run() {
+
+    }
 }
