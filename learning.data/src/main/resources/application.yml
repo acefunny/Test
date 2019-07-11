@@ -1,0 +1,15 @@
+server:
+  port: 9001
+
+spring:
+  redis:
+    host: localhost
+    port: 32785
+    database: 1
+    lettuce:
+      pool:
+        max-active: 10
+        max-idle: 5
+        max-wait: 10ms
+        min-idle: 1
+      shutdown-timeout: 1000ms
