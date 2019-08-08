@@ -1,0 +1,4 @@
+package cc.funny.drools.test1
+
+import cc.funny.config
+

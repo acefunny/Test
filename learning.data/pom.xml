@@ -13,12 +13,12 @@
     <artifactId>learning.data</artifactId>
     <packaging>jar</packaging>
 
-    <name>learning.redis Maven Webapp</name>
+    <name>learning.redis</name>
     <url>http://www.example.com</url>
     <dependencies>
         <dependency>
             <groupId>cc.funny</groupId>
-            <artifactId>leanning.base</artifactId>
+            <artifactId>learning.base</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
