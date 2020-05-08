@@ -6,6 +6,8 @@ public class CommonLang3Test {
 
   @Test
   public void lang() {
-    System.out.println(RandomStringUtils.random(5, "abcdefghijklmn"));
+    Integer a =  100;
+    Integer b = 100;
+    assert a == b;
   }
 }
